@@ -1,3 +1,5 @@
-# Ngon Ngu Lap Trinh C
+# ngon ngu lap trinh c
 
-Đặt slide, bài tập, code mẫu hoặc đề thi tham khảo của học phần tại đây.
+- Slides
+- Bài tập
+- Code mẫu

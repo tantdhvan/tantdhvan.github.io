@@ -1,7 +1,5 @@
 # Công bố khoa học
 
-Danh sách dưới đây được xây dựng từ file công bố cá nhân chuẩn.
-
 ## 2026
 
 - **Tan D. Tran**, Canh V. Pham, Phuong P.H. Nguyen. *Fairness $k$-submodular maximization subject to matroid constraint.* The 35th International Joint Conference on Artificial Intelligence. **A∗**. Tác giả chính. Đã được chấp nhận.

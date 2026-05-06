@@ -1,3 +1,5 @@
-# Co So Lap Trinh
+# co so lap trinh
 
-Đặt slide, bài tập, code mẫu hoặc đề thi tham khảo của học phần tại đây.
+- Slides
+- Bài tập
+- Code mẫu

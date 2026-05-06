@@ -1,3 +1,5 @@
-# Lap Trinh C Nang Cao
+# lap trinh c nang cao
 
-Đặt slide, bài tập, code mẫu hoặc đề thi tham khảo của học phần tại đây.
+- Slides
+- Bài tập
+- Code mẫu

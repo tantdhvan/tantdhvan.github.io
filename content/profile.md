@@ -6,11 +6,7 @@ Tôi quan tâm đến các bài toán tối ưu tổ hợp có cấu trúc, đ�
 
 ## Thông tin liên hệ
 
-- **Email:** your-email@phenikaa-uni.edu.vn
+- **Email:** email@phenikaa-uni.edu.vn
 - **ORCID:** [0000-0001-5866-8458](https://orcid.org/0000-0001-5866-8458)
 - **Google Scholar:** [Tan D. Tran](https://scholar.google.com/citations?hl=vi&user=EHKNGs0AAAAJ)
 - **GitHub:** [tantdhvan](https://github.com/tantdhvan)
-
-## Gợi ý cập nhật
-
-Thay email, ảnh cá nhân và các liên kết học thuật trong file `content/profile.md` hoặc trong phần hero của `index.html`.
